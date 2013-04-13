@@ -1,0 +1,34 @@
+
+body {  
+  text-align: center;  
+  background-color: black;  
+  color: white;
+}
+
+.labs {  
+  font-family: "Courier New", Courier, monospace;
+}
+
+a {  
+  font-family: "Courier New", Courier, monospace;  
+  color: lime;
+}
+
+#logo {  
+  margin-right: 50px;
+}
+
+.socialnet {  
+  font-size: smaller;
+}
+
+h2 {  
+  font-size: 35px;
+}
+
+#part {  
+  font-size: 18px;
+}
+      
+.quote{max-width:200px;padding:10pt 10pt 10pt 10pt; font-style:italic; text-align: center;  }
+
